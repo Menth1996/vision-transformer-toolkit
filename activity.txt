@@ -3,3 +3,4 @@ Activity on 2023-01-11T00:00:00 - Fix "API integration" issue
 Activity on 2023-01-24T00:00:00 - refactor: Improve code structure
 Activity on 2023-01-27T00:00:00 - Refactor "model training" module
 Activity on 2023-02-01T00:00:00 - build: Update build configuration
+Activity on 2023-02-22T00:00:00 - Update "API integration" documentation
