@@ -5,3 +5,4 @@ Activity on 2023-01-27T00:00:00 - Refactor "model training" module
 Activity on 2023-02-01T00:00:00 - build: Update build configuration
 Activity on 2023-02-22T00:00:00 - Update "API integration" documentation
 Activity on 2023-02-27T00:00:00 - perf: Optimize performance
+Activity on 2023-02-28T00:00:00 - Merge pull request #94 from data-privacy-toolkit/main
