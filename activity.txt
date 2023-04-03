@@ -13,3 +13,4 @@ Activity on 2023-03-23T00:00:00 - Add support for "logging system"
 Activity on 2023-03-23T00:00:00 - docs: Update documentation
 Activity on 2023-03-29T00:00:00 - Revert "ci: Configure CI/CD pipeline"
 Activity on 2023-03-30T00:00:00 - Merge pull request #12 from llm-finetuning-framework/main
+Activity on 2023-04-03T00:00:00 - Merge pull request #83 from distributed-rlhf-trainer/main
