@@ -20,3 +20,4 @@ Activity on 2023-04-26T00:00:00 - fix: Resolve bug
 Activity on 2023-04-28T00:00:00 - Update "model training" documentation
 Activity on 2023-05-09T00:00:00 - Update "configuration" documentation
 Activity on 2023-05-26T00:00:00 - ci: Configure CI/CD pipeline
+Activity on 2023-06-08T00:00:00 - build: Update build configuration
