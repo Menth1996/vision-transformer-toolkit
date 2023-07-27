@@ -27,3 +27,4 @@ Activity on 2023-06-28T00:00:00 - fix: Resolve bug
 Activity on 2023-07-03T00:00:00 - fix: Resolve bug
 Activity on 2023-07-11T00:00:00 - Update dependencies
 Activity on 2023-07-24T00:00:00 - docs: Update documentation
+Activity on 2023-07-27T00:00:00 - Merge pull request #7 from gpu-memory-profiler/main
