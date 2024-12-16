@@ -84,3 +84,4 @@ Activity on 2024-11-12T00:00:00 - Update dependencies
 Activity on 2024-11-12T00:00:00 - Update dependencies
 Activity on 2024-11-15T00:00:00 - Merge pull request #23 from distributed-rlhf-trainer/main
 Activity on 2024-12-05T00:00:00 - Revert "Refactor "{}" module"
+Activity on 2024-12-16T00:00:00 - Improve "security patch" logic
